@@ -5,7 +5,7 @@
 
 ## 참여인원    
 - [Kayla](https://github.com/kaylais)  
-- [bizuryu](https://github.com/bizuryu)  
+- [MinjeeKang](https://github.com/MinjeeKang)  
 - [JJRomi](https://github.com/JJRomi)  
 - [sumsum27](https://github.com/sumsum27)  
 
