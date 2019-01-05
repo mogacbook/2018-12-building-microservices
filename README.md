@@ -9,14 +9,14 @@
 - [JJRomi](https://github.com/JJRomi)  
 - [sumsum27](https://github.com/sumsum27)  
 
-## 일정  
-- [x] 1회 : 2018.12.15  
-- [x] 2회 : 2018.12.18 
-- [x] 3회 : 2018.12.20 
-- [x] 4회 : 2018.12.27 
-
 ## 리뷰 작성 면제권 1회 사용
 - [ ] Kayla  
 - [ ] MinjeeKang  
 - [ ] JJRomi  
 - [x] sumsum27 - 12/22  
+
+## 벌금 
+- Kayla  
+- MinjeeKang  
+- JJRomi  
+- sumsum27 : 01/04   
