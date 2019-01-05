@@ -19,4 +19,4 @@
 - Kayla  
 - MinjeeKang  
 - JJRomi  
-- sumsum27 : 01/04   
+- sumsum27 - 01/04   
