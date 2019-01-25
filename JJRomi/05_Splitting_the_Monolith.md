@@ -1,6 +1,4 @@
-CHAPTER 5. Splitting the Monolith
-
-# 모놀리스 분해하기
+# CHAPTER 5. Splitting the Monolith
 
 ## 접합부가 중요하다.
 - 경계가 있는 콘텍스트는 훌륭한 접합부** 를 만든다. 조직 내의 응집력이 있고 느슨히 결합된 경계를 잘 표현하기 때문이다. 
