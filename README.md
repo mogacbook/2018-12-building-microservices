@@ -10,9 +10,9 @@
 - [sumsum27](https://github.com/sumsum27)  
 
 ## 리뷰 작성 면제권 1회 사용
-- [ ] Kayla  
-- [ ] MinjeeKang  
-- [ ] JJRomi  
+- [x] Kayla  
+- [x] MinjeeKang - 02/08  
+- [x] JJRomi - 02/08  
 - [x] sumsum27 - 12/22  
 
 ## 벌금 
